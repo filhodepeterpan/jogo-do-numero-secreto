@@ -1,5 +1,5 @@
 let drawnNumbers = [];
-let maxNumber = 100;
+let maxNumber = 10;
 let secretNumber = randomNumberGenerator();
 let tries = 1;
 
